@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-### npm install :point_left:
+### `npm install` :point_left:
 
 ### `npm start` :point_left:
 
